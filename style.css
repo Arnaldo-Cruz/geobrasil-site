@@ -202,7 +202,7 @@ section h2 {
 
 .diag-grid .service-card { text-align: left; }
 .diag-grid .service-card h3 { padding: 15px 15px 5px; }
-.diag-grid .service-card p, .diag-grid .service-card ol {
+.diag-grid .service-card p, .diag-grid .service-card ol, .diag-grid .service-card ul {
   padding: 0 15px 15px 30px;
 }
 
